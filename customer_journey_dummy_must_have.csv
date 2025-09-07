@@ -98,4 +98,4 @@ CS96,Email,abandon_cart,11,1037,2,211.8,5,Silver,4,Tablet,"Mcdonaldside, VU",hig
 CS97,Web,support_ticket,12,593,0,265.8,14,Platinum,1,Desktop,"South Kerry, BS",new,cart,0.13,send_email_reminder,support,neutral
 CS98,Mobile App,abandon_cart,2,385,2,401.99,12,Platinum,3,Mobile,"Bettyfort, GM",high_value,cart,0.44,no_action,support,negative
 CS99,Email,support_ticket,3,392,2,270.34,15,Platinum,5,Desktop,"Garciashire, ES",new,checkout,0.37,send_discount,buying,neutral
-CS100,Mobile App,page_view,12,60,0,178.24,1,Bronze,3,Desktop,"Wilsonberg, MM",churn_risk,landing_page,0.86,no_action,support,negative
+CS100,Mobile App,page_view,12,60,0,178.24,1,Bronze,3,Desktop,"Wilsonberag, MM",churn_risk,landing_page,0.86,no_action,support,negative
