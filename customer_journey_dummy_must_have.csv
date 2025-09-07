@@ -1,4 +1,4 @@
-customer id,channel,last_action,pages_viewed,time_on_site,form_interactions,cart_value,purchase_history,loyalty_tier,checkout_steps_completed,device,location,customer_segment,drop_off_point,intent_score,suggested_action,status,sentiment_score
+customer_id,channel,last_action,pages_viewed,time_on_site,form_interactions,cart_value,purchase_history,loyalty_tier,checkout_steps_completed,device,location,customer_segment,drop_off_point,intent_score,suggested_action,status,sentiment_score
 CS1,Web,support_ticket,12,222,2,320.03,18,Bronze,1,Tablet,"Port Donnaport, VC",new,cart,0.31,send_discount,browsing,positive
 CS2,Email,purchase,2,1044,2,346.31,11,Platinum,1,Mobile,"Maddenville, NO",high_value,landing_page,0.05,send_discount,buying,positive
 CS3,Web,purchase,11,1177,0,115.89,17,Gold,4,Mobile,"Bartonchester, CU",high_value,product_page,0.17,call_customer,support,positive
